@@ -17,3 +17,7 @@ That means the **ENTIRE** line.
 4. Press save; 7zip should make a window pop up that says to update the file in the archive; press **OK**
 
 ![image](https://user-images.githubusercontent.com/128200152/234378286-9f01606b-132e-40e4-8898-f527bcfd2f7f.png)
+
+5. re-add the edited playbook to the AME Wizard.
+
+# DO NOT PANIC IF THE PLAYBOOK IS MARKED AS MALICIOUS, THIS IS A SIDE AFFECT.
